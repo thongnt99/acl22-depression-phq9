@@ -1,0 +1,40 @@
+rarely {pp}
+never {pp}
+no more {pp}
+recover.{0,15} from {pp}
+regain control of {pp}
+recuperat.{0,15} from {pp}
+not {pp}
+dont {pp}
+don'?t {pp}
+didn'?t {pp}
+wouldn'?t {pp}
+not very {pp}
+scarcely {pp}
+no longer {pp}
+hardly {pp}
+contradictorily {pp}
+invalidly {pp}
+seldom {pp}
+barely ever {pp}
+hardly ever {pp}
+under no circumstances {pp}
+in no way {pp}
+on no condition {pp}
+wasn'?t {pp}
+isn'?t {pp}
+was not {pp}
+is not {pp}
+aren'?t {pp}
+are not {pp}
+maybe {pp}
+(stop|stopped) {pp}
+end of {pp}
+doesn'?t {pp}
+doesn not {pp}
+couldn'?t {pp}
+could not {pp}
+can'?t {pp}
+can not {pp}
+pretend to {pp}
+feel no {pp}

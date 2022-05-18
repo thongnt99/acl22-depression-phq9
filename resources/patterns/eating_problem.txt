@@ -1,0 +1,145 @@
+worse appetite
+wasn't able to eat anything
+vomitting .* (eat|food)
+upset stomach 
+uncomfortable after eating
+try to not eat,
+too food craving
+throw up my meals
+Sugar Addiction
+stuck in .{0,15}binge purge cycle
+struggling with anorexia
+struggled with anorexia
+struggle with food
+struggle with anorexia
+reflux disease
+record my weight every morning
+preoccupation with food
+prader-willi syndrome
+poor diet 
+overeating
+overeat 
+over eat
+on a massive binge
+obsessed with my weigh
+obsessed with food
+obsessed with eating
+obsessed with diet
+not eating due to an illness
+not eat very much at all
+not able to eat anything
+no appetite
+never feel starving
+never feel hungry 
+my appetite just won'?t ease off
+my appetite just don'?t ease off
+lost my appetite
+lose control over *eating
+lose appetite
+lack of interest in food
+lack of appetite
+issue.{1,15} with .{1,15} eating 
+isn'?t able to eat anything 
+indigestion
+haven'?t eaten (dinner|luch) for
+have no appetite
+have ED .{0,15}
+have a binge
+guilty after eating
+full very quickly .{0,15} eat
+food controls my life
+feel .{0,15}awful .{0,15}to eat
+fear of gaining weight
+fear of choking
+fast food addiction
+extreme food restriction
+excessive appetite
+excess food consumed
+eating disorder
+(?<![a-zA-Z0-9])eating problem
+eating a large amount
+eat.{0,15} full very quickly
+eat in secret
+eat a large amount
+dyspepsia  
+disordered eating habits
+disordered eating behavior
+disordered eating
+diarrhea .* (eat|food)
+decreased appetite
+decrease in appetite
+couldn'?t stop eating
+Compulsive Snacking
+compulsive overeating
+can't stop overeating
+can'?t stop eating
+can'?t control my eating
+bulimia nervosa
+binge eating
+binge eater
+binge eat
+belch a lot
+ask for a dietitian
+appetite please come back
+appetite lessens
+anorexia nervosa
+anorexia
+always food craving
+always crave for food
+addicted to sugar
+addicted to fast food
+acid reflux
+abnormal eating habits
+a hard time eating
+#overweight
+#hate eating
+#flatulence
+#don't want to eat 
+#deserve to starve
+(eat|food) .* vomiting
+(eat|food) .* diarrhea
+( )ED behavior
+( )eating makes me feel so bad
+( )eating issue
+( )eating in secret
+appetite non-exist
+appetite reduce
+never have an appetite
+loss of appetite
+appetite loss
+lost appetite
+appetite is sometimes lost
+poor appetite
+don'?t have appetite
+reduced appetite
+depressed appetite
+wrong with appetite
+appetite is off
+low appetite
+lost (\w+ )?appetite
+appetite has died
+lost all of my appetite
+very little appetite 
+not much of an appetite
+killed (\w+ )?appetite
+no appetite
+losing my appetite
+appetite is diminishing
+zero appetite
+decrease in my appetite
+haven't had any appetite
+can't control my appetite
+non-existent appetite
+destroy(ed)? appetite
+lack(ed)? an appetite
+lose a bit of my appetite
+suppressed appetite
+appetite suppressant
+appetite suppressed
+suppress.{0,10} appetite
+sick after eating
+sick .* eating
+eating .* sick
+struggle to eat
+strungling to eat
+strunggle with eating

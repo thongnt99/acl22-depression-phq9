@@ -1,0 +1,111 @@
+without feelings of joy
+want to give up 
+very cut up about 
+upset about 
+try.{0,15} to have hope
+tough time
+tired of crying
+think(ing)? about dark shit
+terrible mood
+terrible feeling 
+terrible day
+suffer.{0,15} from depression
+struggl(e|ed|ing) on and off 
+struggl.{0,15} to hope
+stressed
+squeez* my heart 
+spen.{0,15} so much time alone
+sad feeling 
+sad days
+really sad
+not feel.{0,15} good
+never have enjoyment in life
+never feel happy 
+never enjoy my self
+never enjoy my life
+need a hug
+my mood is .{0,15} unstable
+my heart sinks
+my heart is torn
+lost falling apart 
+lonely feeling
+lonely day 
+incredibly sad
+in the dumps about
+in despair
+in a really down situation
+hurts so much 
+heartbroken
+heart broke 
+have the blues 
+have no one I can talk to 
+have a lump in my throat
+hav(e|ing) no hope
+hav(e|ing) depression
+hav(e|ing) a dark feeling
+hav(e|ing) a bad day 
+find myself crying 
+feel(ing)?(\w+)? unhappy
+feel(ing)?(\w+)? terrible 
+feel(ing)?(\w+)? stuck
+feel(ing)?(\w+)? stressed
+feel(ing)?(\w+)? sad and alone
+feel(ing)?(\w+)? pathetic
+feel(ing)?(\w+)? low
+feel(ing)?(\w+)? lost
+feel(ing)?(\w+)? lonely
+feel(ing)?(\w+)? hurtful
+feel(ing)?(\w+)? hopeless 
+feel(ing)?(\w+)? hopeless
+feel(ing)?(\w+)? heartbroken
+feel(ing)?(\w+)? empty
+feel(ing)?(\w+)? down(?![a-zA-Z])
+feel(ing)?(\w+)? down
+feel(ing)?(\w+)? despair
+feel(ing)?(\w+)? depressive
+feel(ing)?(\w+)? depressed
+feel(ing)?(\w+)? blue about
+feel(ing)?(\w+)? bad mood 
+feel(ing)?(\w+)? awful both physically and emotionally
+feel(ing)?(\w+)? awful
+feel(ing)? the sadness
+feel(ing)? the loneliness 
+feel(ing)? pretty shit
+feel.{0,15} like crying 
+feel.{0,15} like breaking down 
+feel.{0,15} a loss 
+feel the sadness
+face like a wet weekend
+everyday is pain and frustration
+downhearted
+down in the mouth 
+down in the dumps
+don'?t feel well 
+don'?t feel well
+don'?t feel happy
+don'?t feel any joy
+do not feel well 
+cry my eyes out
+cry a lot
+cried a lot 
+can'?t (just )*feel normal 
+bad feeling 
+bad day
+antidepressants
+anti depressants
+addicted to sadness
+#unhappiness
+#ruined me
+#reduce to tears
+#out of sorts 
+#mood swing
+#is tragic
+#I desperate
+#heart sinks
+#get yelled at 
+#feel.{0,15} never good enough
+#feel.{0,15} helpless
+#feel.{0,15} a lot worse
+#anxiety
+#am unhappy 
+(\w+)? low mood

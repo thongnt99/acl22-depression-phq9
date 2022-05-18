@@ -1,0 +1,103 @@
+zero confidence
+what’s wrong with me
+strunggle to have self.?esteem
+struggle to have (self.)?confidence
+sorry for all the people I might have
+sensitive to criticism
+self hatred
+regret about what I've caused to
+regret about my history
+pull myself down
+poor sense of self.?esteem
+poor self.?image
+people do not like me
+not confident (in myself|at all)
+no longer feel like person
+never satisfied with myself
+never pleased with mysef
+never feel good about myself
+never a good person
+never a good kid
+never a good child
+never (be|feel) confident
+my guilt
+low self.?esteem
+let my parents down
+let my friends down
+let my family down
+let down my \w+
+let (her|him) down
+let .{0,15} down
+lack of self.confidence
+lack of self.?esteem
+lack of faith in myself
+lack of confidence
+I'm a bad friend
+I'm a bad child
+I'?m worthless
+I'?m valueless
+I'?m shitty
+I'?m a terrible person
+I'?m a terrible friend
+I'?m a spoiled brat
+I'?m a failure
+I'?m a bad person
+I'?m a bad kid
+I obsess over my appearance
+I feel guilt
+I don'?t have any value
+I am worthless
+I am valueless
+I am shitty
+I am a terrible person
+I am a terrible friend
+I am a spoiled brat
+I am a failure
+I am a bad person
+I am a bad kid
+I am a bad friend
+I am a bad child
+how much guilt I feel
+how disgusting I am
+have no self worth
+have no self esteem
+hat(e|ing) myself
+feel(ing)? pathetic
+feel(ing)? like I am the burden
+feel(ing)? guilty
+feel(ing)? dump
+feel(ing)? as though no one sees me
+feel(ing)? (that )?(I'm|I am) so useless
+feel(ing)? (really |verybad )? about myself
+feel.{0,15} worthless
+feel.{0,15} useless and helpless
+feel.{0,15} unappreciated
+feel.{0,15} in the dumps
+feel sory for
+feel sorry about
+feel so selfish
+feel like i'm bothering everybody
+feel like I am abandoning my \w+
+feel guilty about
+don’?t deserve my own space
+don'?t value the job (I'm|I am) doing
+don'?t love myself
+don'?t feel like myself
+don'?t feel good about myself
+don'?t deserve happiness
+dissapoint.{0,15} my
+disappointed (about|with) myself
+didn’t feel like myself
+despise myself
+damage my self.?esteem
+constantly compare myself to others
+can’t help anyone in my family anymore
+can’?t seem to be satisfied with myself
+blamed myself for
+bad image about myself
+anxious about what everyone will think
+am I a spoiled brat
+#feel sorry
+#don'?t have assertiveness
+(I'm|I am) (really|very|so) stupid
+(I'?m|I am) a (bad|terrible) (friend|student|child|kid|boy|girl|mom|dad|father|mother)

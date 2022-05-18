@@ -1,0 +1,74 @@
+want to nap all the time 
+uncontrollable tiredness
+trouble finding energy
+signs of (\w+ )fatigue
+physically ill
+physical numbness
+(feel(ing)?|make me( feel)?|become|became|leave me|am|was) (\w+ )?over.?tired
+(feel(ing)?|make me( feel)?|become|became|leave me|am|was|and) (\w+ )?(ill)(?!([a-zA-Z ]))  
+on my last legs
+not having the energy to do anything
+my health went down
+my health was down
+my health is down
+my health goes down
+my arms and legs are so (\w+ )?heavy.
+low energy
+lost energy
+lethargy (creep over|creep through|overtake)
+lack physical strength 
+lack (of )?energy
+insanely sick 
+insanely exhausted
+(I am|I'm) washed out
+(I am|I'm) shattered
+(I am|I'?m)washed out
+(I am|I'?m)shattered
+(I am|I'?m)(\w+ )?on sick leave
+(I am|I'?m)((?!(not|n't)).)*worn out
+(I am|I'?m)((?!(not|n't)).)*drowsy 
+(I am|I'?m)((?!(not|n't)).)*debilitated
+I have (no|zero|0) energy 
+having a hell of a time
+have no energy
+have .{0,15}sickness
+had .{0,15}sickness
+make me (\w+)?weak
+(my|me).{0,30} (feel(ing)? )?(\w+ )?weak(?!([a-zA-Z ]))  
+(ing)? (\w+ )?unwell
+feel(ing)? (\w+ )?tiredness
+feel(ing)? (\w+ )?sick (all day|all the time|every day)
+feel(ing)? fatigue
+feel(ing)? exhausted
+fatigue set in
+fatigue overcome 
+exhausted .{0,15} on daily basis
+emotional numbness
+drained of all power
+drained of all energy
+dont have the energy to do anything
+don't have the energy to do anything
+dizziness
+did not have the energy
+dead on .{0,15} feet
+constant tiredness
+constant .{0,15}fatigue 
+constanly exhausted 
+chronic tatigue
+always in.{0,15} tired situation
+always feel.{0,15} sick
+a feeling of (\w+)lethargy
+a feeling of (\w+ )fatigue
+suffer.{0,15} from devastating fatigue 
+feel(ing)? numb
+mentally ill 
+lacking energy
+I'm wiped out
+feel powerless
+(try|tried) .{0,15}to alleviate .{0,15}illness
+(suffer(ing)? from|drop down with|drop with|combat|fight off|fight|reduce) (extreme |severe |growing |general |mental |physical )fatigue
+(overcome by|feel(ing)?|suffer(ing)? from) (\w+ )lethargy
+(over|fucking|freaking|too|extremely|very|excessively|always) tired
+(tired)(?!( of))
+make me (\w+ )?sick 
+((?<!( me ))feel(ing)?|become|became|leave me|am|was|and) (\w+ )?sick

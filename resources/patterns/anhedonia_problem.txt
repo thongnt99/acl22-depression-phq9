@@ -1,0 +1,117 @@
+zero motivation
+zero interest
+zero ambition
+want nothing in life
+want nothing
+unable to enjoy anything
+trouble finding willpower
+sit around and do nothing
+problem with keeping (things|my life) going
+poorly motivated .{0,15} anything
+poor motivation .{0,15} anything
+nothing to look forward to
+nothing to live for
+nothing to (live for|look forward to)
+nothing makes me happy
+nothing feels good anymore
+nothing .{0,15}feel.{0,15} good anymore
+nothing .{0,15}feel.{0,15} good
+nothing .{0,15}able to give me relief
+not pleasure
+not into everything
+not into anything
+not interested in (everything|anything)
+not having motivation
+not at all interested in (anything|everything)
+not .{0,10} interested
+non-motivation
+no sense of satisfaction
+no purposes?
+no pleasure
+no passions?
+no motivation
+no longer enjoying anything
+no longer enjoy anything
+no interest in (everything|anything)
+no interest
+no hope for pleasure
+no goals
+no enjoyment out of things
+no ambition 
+no (goal|motivation|purpose)
+no .{0,15}motivation
+never have ambition in life
+need motivation to live
+myself wanting to skip days
+my life is boring
+motivation issue
+motivation is going down
+motivation is at a new low
+motivation decrease
+motivation .{0,15}tanked
+low motivation .{0,15} anything
+lost .{0,15}pleasure
+lost .{0,15}motivation
+lost .{0,15}interest
+lost .{0,15}desire
+lost .{0,15}interst
+loss of .{0,15}(interest|motivation|pleasure|purpose)
+little pleasure
+little interest
+lack.{0,15} (purpose|ambition|purpose|pleasure|motivation|desire|concern)
+inability to feel pleasure
+inability to enjoy anything
+inability to enjoy .{0,15}pleasurable.{0,15}
+in survival mode
+gives? up the motivation
+feel.{0,15} so lazy
+feel.{0,15} jaded
+everything is boring to me
+everything is boring
+enable to enjoy anything
+drain.{0,15} motivation
+drain.{0,15} ambition
+don’?t feel like doing anything
+don'?t want to do anything
+don'?t like anything
+don'?t have any emotion
+don'?t feel pleasured doing
+don'?t feel motivated at all
+don'?t feel like doing anything
+don'?t enjoy life
+do not like anythinng
+desire nothing
+decreased motivation
+couldn't find.{0,15}motivation
+causes me to lose interest
+causes me to have no motivation
+can't get myself to do anything
+can't find.{0,15} motivation
+bored with everything
+bored with (almost )?everything
+bored everyday
+bored all day
+anhedonia
+(strungle|problem) .{0,15} lack of (pleasure|interest|motivation|willpower|purpose|desire)
+(reduce(d)? pleasure|reduce(d)? (my )?interest|reduce(d)? (my )?motivation|ruin(ed)? pleasure|ruin(ed)? (my )? motivation|ruin(ed)? (my )? interest|destroy(ed)? (my )?motivation|destroy(ed)? my interest|destroy(ed)? my pleasure)
+(nothing|anything) to live for
+(loss of desire|lose desire|lost desire|lose motivation|lost motivation|lost of motivation|lose pleasure|loss of pleasure|lost pleasure)
+(lose|losing|lost).{0,15} interest
+(lose|losing|lost).{0,15} dire
+(lose|losing|lost).{0,15} ambition
+(lose|losing|lost).{0,15} (interest|pleasure|motivation)
+(lose|losing|lost) .{0,15}motivation
+(don't|do not) find joy in anything
+(don't|do not) feel fulfillment
+(don't want to do anything|don't care about anything) 
+(don'?t|not) have .{0,15}motivation
+(don'?t|do not) have anything to (live for|look forward to)
+(don'?t|do not) have a sense of purpose
+(don'?t want|no motivation)to do anything
+(didn'?t|don'?t|never|not) have .{0,15} ambition
+(couldn't|could not) enjoy anything
+(can'?t|couldn'?t) experience pleasure
+(0|no|zero) (motivation|interest)
+((don'?t want|no motivation)to do anything|not into anything|don't care about anything)
+((don'?t want|no motivation)to do anything|not into anything|care about anything)
+( )no goals in life

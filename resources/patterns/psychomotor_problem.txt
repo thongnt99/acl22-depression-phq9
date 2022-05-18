@@ -1,0 +1,109 @@
+walk(ing)? dangerously fast
+urge to move around
+(unable|diificult|not able|trouble) to sit still
+(unable|diificult|not able|trouble) to relax
+(unable|diificult|not able|trouble) to be calm
+twist(ing)? hands constantly
+trouble waiting in line
+trouble sitting still
+trouble siting at one place
+trouble doing quiet task
+there is no way to rest(?![a-zA-Z])
+the restless (\w+ )?drive me insane
+tap(ing)? my (feet|fingers).{0,15}(on the floor|on any surface)
+talk(ing)? too (fast|quickly)
+talk(ing)? constantly
+talk non-?stop .* (annoy)
+excessive moving
+suffer from (excessive talking|moving too much|speaking too fast|a lot of paccing|lot of tapping)
+strained and hoarse voice
+start(ed|ing)? to (shake|the get the shakes)
+speak(ing)? with too many hesitations
+speak(ing)? out of turns
+slow down almost to paralysis
+restless legs
+remov(e|ing) things and (then )?put(ing)? back
+reduction of physical movements
+psychomotor
+psycho energy
+problem with (very )?slow reaction
+problem with (very )?fast speech
+powerful urge to move
+physical movement reduction
+overpowering urge to move
+non-?stop talking .* (annoy)
+movement disorder
+mov(ing)? (around |back and forth )?a lot (\w+ )?no reason
+mov(ing)? (around |back and forth )?a lot (\w+ )?no purpose
+mov(ing)? (\w+ )no reason
+keep talking constantly
+keep moving constantly
+jingle(d)? relentlessly
+is always really overactive at night
+irresistible urge to move
+involuntary (leg|arms) twitching
+inability to sit still
+hyper.?active energy
+horrible restless feeling
+have trouble playing quietly
+have trouble (siting|staying|standing) still
+have to be doing something all of the time
+have restless .*
+have extreme urges to (roll over and move|move|speak)
+have an inability to sit still
+have a very (hard|difficult) time (calming down|relaxing|sitting still|staying still)
+have a ridiculously high energy
+have a lot of (anoying )?tapping
+have a lot of (anoying )?paccing
+hav(e|ing) fidget issue
+folding and unfolding my arms constantly
+feel(ing)? hyper.?active
+feel(ing)? (restless|high-?strung)
+eyes (can'?t|can not|coulnd'?t|could not) stop blink(ing)?
+excessively active
+excessive energy
+difficulty with quiet activities
+difficulty sitting still
+difficulty finishing tasks
+difficult to speak slow
+difficult to speak fast
+difficult to sit still
+difficult sitting still
+crossing and uncrossing my legs constantly
+constantly move my legs while sitting
+blink(ing)? non-stop
+blink(ing)? constantly
+always be "on the go"
+(suffer from|problems? with|issues? with) restlessness
+(shake|sweat) from (all )?(the|my) pent-up energy
+(problems?|issues?) with non-stop blink
+(problems?|issues?) with (very loud voice|monotonous voice|too small voice|too small speech|too quite speech)
+(problems?|issues?) (with )?speaking in (a )?regular rhythm
+(pace|pacing) back and forth
+(pace|pacing) around a lot
+(found|find) myself getting anxious
+(couldnt|couldn't|cant|can't|could not|not) speak in (a )?regular rhythm
+(couldnt|couldn't|cant|can't|could not|not) keep (myself|my .{0,6}) from (moving|tapping|pacing)
+(couldnt|couldn't|cant|can't|could not|not) keep (myself|my .{0,6}) (being )?still
+(couldnt|couldn't|cant|can't|could not|not) (stop|keep) (myself from )?wring(ing)? (with )?my hands
+(couldnt|couldn't|cant|can't|could not|not) (stop|keep) (myself from )?folding and unfolding my arms
+(couldnt|couldn't|cant|can't|could not|not) (stop|keep) (myself from )?crossing and uncrossing my legs
+(couldnt|couldn't|cant|can't|could not|not) (stop|keep) (myself from )?(talking|speaking|walking) too (fast|quickly)
+(couldnt|couldn't|cant|can't|could not|not) (stop|keep) (myself from )?(pacing around|pacing back and forth|moving around|moving back and forth|fidgeting)
+(couldnt|couldn't|cant|can't|could not|not) (stop|keep) (myself from )? (fingers twitching|hand-wringing|tapping|pacing)
+(couldnt|couldn't|cant|can't|could not|not) (be|sit|stay|stand) still
+(couldn'?t|can'?t| not) stop talking .* (annoy)
+(couldn'?t|can'?t| not) organize my stuff
+(can'?t|not|couldn'?t|difficult|unable|hard) ( to)?control my (speed of speaking|speech)
+(can'?t|cound'?t| not|unable to|not able to|difficult to) stick my tongue out very far
+(can'?t|cound'?t| not|unable to|not able to|difficult to) move slow
+(can'?t|cound'?t| not|unable to|not able to|difficult to) move fast
+(can'?t|couldn'?t| not) stop moving .* (annoy)
+(annoy) .* talk non-?stop
+(annoy) .* non-?stop talking
+(annoy) .* I can'?t stop talking
+(annoy) .* I can'?t stop moving
+(am|get) over fidgety
+( my [a-zA-Z]{0,10} is out of control)
+( )end(ing)? tasks abruptly
+( )eat(ing)? too (fast|quickly)

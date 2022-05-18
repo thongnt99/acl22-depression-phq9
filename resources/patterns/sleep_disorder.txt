@@ -1,0 +1,119 @@
+waking up suddenly from a deep sleep
+wak(e|ing) up tossing again 
+wak(e|ing) up in the middle of the night
+wak(e|ed|ing) up choking in my sleep
+unrestful sleep
+unable to sleep 
+trouble sleeping
+trouble having a good night's sleep
+trouble getting to sleep
+trouble falling asleep
+terrified of going back to sleep
+talk in my sleep
+struggl(e|ing) with sleep
+stay.{0,15} up all night
+somnipathy
+sleeplessness has caused me 
+sleeping sickness
+sleep-?walking
+sleep too much 
+sleep paralysis
+sleep interrupted
+sleep has really become an issue
+sleep has gotten worse
+sleep disorder
+sleep difficulty
+sleep deprived
+sleep deprivation
+sleep apnea
+sick of not sleeping
+scared to sleep
+refuse(s|d)? to shut down into sleep
+recurring nightmare
+poor sleep
+polysomnography
+parasomnias
+overslept 
+oversleep
+often being being woken up during the night
+not being able to sleep
+no longer (slept|sleep) through the night
+nightmare again
+night terrors
+never a good sleeper
+natural sleeping tablets
+narcolepsy
+lying awake all ?night
+issues with my sleep
+insomnia
+incredibly hard to sleep
+hypersomnia
+having not enough sleep 
+haven'?t slept well
+haven'?t slept for( \w+)* days
+haven'?t been able to sleep
+haven'?t been able to get a good night's sleep
+have not slept for days
+have not been able to sleep
+frightening dream
+frequently being woken up 
+few good nights sleep
+dyssomnias
+drink alot of pain killers to fall asleep
+don'?t (have|get) enough sleep
+difficulty falling asleep
+difficult to sleep
+difficult to fall asleep
+difficult for me to sleep at night
+didn'?t sleep for many nights
+didn'?t have enough sleep
+did not sleep for many nights
+desparate for sleep
+daytime sleepiness
+constantly wak(e|ing) up
+constant waking up during the night
+circadian rhythm disorder
+can'?t fall back to sleep
+can'?t stop nightmares
+being woken up too early
+being woken up by
+being awake at the middle of the night
+bad night’s sleep 
+awakens tired
+anxious to sleep
+another sleepless night
+another nightmare
+actigraphy
+woke up too late 
+woke up too early 
+waking up too late 
+wake up too late 
+wake up too early
+stay.{0,15} awake until .{0,15} a.?m
+not sleeping well
+not sleeping
+kept me up all night
+keep me up all night
+don’?t sleep well
+don'?t stay asleep
+do not sleep well 
+do no have enough sleep 
+do no get enough sleep 
+difficult to stay asleep
+didn'?t get much sleep
+didn'?t get enough sleep 
+did not sleep well 
+did not have enough sleep 
+did not get enough sleep 
+crappy sleep
+(can'?t|couldn'?t|not) sleep 
+asleep too late 
+asleep too early 
+(keep|kept) stay awake
+(wake|waking|woken) up with a headache
+(wake|waking|woken) up dizzy
+don'?t (have|get) enough sleep 
+(can'?t sleep|can not sleep)
+lack of sleep
+sleep issues
+(not able|unable|difficult) to sleep

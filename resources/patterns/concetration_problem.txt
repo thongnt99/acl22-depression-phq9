@@ -1,0 +1,71 @@
+trouble staying on task
+trouble paying attention
+trouble concentrating
+tests for adhd( |$)
+tests for adhd
+struggle.{0,15} with attention
+struggle.{0,15} maintain.{0,15} concentration
+struggle (a lot )?with the concentration
+struggl(e|ing) with attention
+struggl(e|ing) to maintain concentration
+struggl(e|ing) to (be able to )?(focus|concentrate|stay focused|stay concentrated)
+scatterbrained
+quickly lose focus
+problems with concentrating
+problems sustaining attention
+often lose focus on
+my concentration is horrible
+my concentration (isn't|is not) good
+my brain just says "no"
+lost concentration
+lose concentration
+lack of focus
+inattentive (brain|mind)
+impossible to stay focused
+impossible .{1,15} stay focused
+hyper.?focus .* (problem|issue)
+having a short attention
+have trouble staying on topic
+have terrible concentration
+have little to no concentration
+get easily sidetracked
+find it difficult to concentrate
+find concentrating hard
+easily distracted by noise
+easily distracted
+distracted easily
+difficulty sustaining focus
+difficult to concentrate
+diagnosed ADD( |$)
+couldnt retain information
+consistently distracted
+concentration problem
+concentration difficulty
+concentration deficit
+concentrating problem
+concentrating issue
+can no longer stay focused
+brain runs on autopilot
+avoid tasks that require long periods of mental focus
+attention deficit
+(trouble|difficulty) (concentrating|paying attention|focusing|sustaining focus)
+(trouble|difficult|hard|difficulty).{0,15} sticking to tasks
+(trouble|difficult|hard|difficulty).{0,15} staying focused
+(trouble|difficult|hard|difficulty).{0,15} staying concentrated
+(trouble|difficult|hard|difficulty).{0,15} concentrating
+(problem|issue) .* hyper.?focus
+(make|makes|made|making) focusing on \w+ so hard
+(lose|losing) concentration
+(difficult|unable|hard|challenging|impossible|not able) to stick to tasks
+(difficult|unable|hard|challenging|impossible|not able) to stay focused
+(difficult|unable|hard|challenging|impossible|not able) to focus on
+(difficult|unable|hard|challenging|impossible|not able) to focus
+(difficult|unable|hard|challenging|impossible|not able) to concentrate
+(could not|couldn'?t) stay focused
+(concentration|concentrating|attention) (issue|deficit|difficulty|problem)
+(can'?t|not|couldn'?t|unable to|inable to|not able to) (focus|concentrate|stay focused|stay concentrated)
+(can'?t|couldn'?t|not|inable to) focus
+(can'?t|can not|can no longer) stay focused
+(can'?t|can not|can no longer) concentrate
+(can'?t|can not) seem to focus
+(^| )ADHD($| |.)

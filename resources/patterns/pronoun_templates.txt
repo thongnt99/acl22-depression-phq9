@@ -1,0 +1,2 @@
+(?<![a-zA-Z0-9])(she|he|they|you|her|his|their|your|him|them)(?=( |'))((?!( me | my | i )).)*{pp}
+(?<![a-zA-Z0-9])(kid|aunt|baby|brother|boyfriend|bride|brother|cousin|dad|daughter|father|father-in-law|fiancé|fiancée|friend|friend|girlfriend|godchild|godfather|godmother|grandchild|grandchildren|granddaughter|grandfather|granddad|grandpa|grandmother|grandma|grandson|great-grandparents|groom|half-brother|husband|mother|mother-in-law|mum|mummy|mom |nephew|niece|parent|parents|sister|son|stepbrother|twin|twin-brother|uncle|wife)(?=( |'))((?!( me | my | i )).)*{pp}
