@@ -1,6 +1,6 @@
 # acl22-depression-phq9
 
-## Weakly label symptoms
+## 1. Weakly label symptoms
 ### Collect positive symptoms
 ```
 #!/bin/bash
@@ -24,15 +24,15 @@ python prepare_data/generate_neg.py --input input_file --ouptut ouptut_file [NEG
 ```
 python prepare_data/aggregate_and_split_data.py --input [INPUT_FOLDER]
 ```
-## Train question/symptom models
+## 2. Train question/symptom models
 ```
 python code/train_question_model.py --epoch 100 --es_patience 5 --batch_size 16 --model cnn --train data/anhedonia/train.jsonl --dev data/anhedonia/dev.jsonl --test data/anhedonia/test.jsonl --save models/anhedonia --bert base --hidden_dim 5 --sig al 
 ```
-## Symptom inference on posts 
+## 3. Symptom inference on posts 
 ```
 python code/run_questionnaire.py  --bert base --model cnn --hidden_dim 5 --input [INPUT_PATH]  --log [LOG_PATH] --output [OUTPUT_PATH]
 ```
-## Train depression models 
+## 4. Train depression models 
 ```
 python code/train_depression.py --train [TRAIN_PATH] --dev [DEV_PATH] --test [TEST_PATH] --epochs 400 --es_patience 5 --batch_size 16 --lr 0.0001 --save models/ --model cnn --fold 0 
 ```
